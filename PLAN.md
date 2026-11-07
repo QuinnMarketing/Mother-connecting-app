@@ -1,10 +1,10 @@
-# Mother Connecting App — Product & Build Plan
+# Mummit — Product & Build Plan
 
-_Working title: "Village" (placeholder — naming TBD)_
+_App name: **Mummit**_
 
 ## 1. Vision
 
-A safe, judgement-free space where mothers can ask anything about their children — skin rashes, conditions, sleep, feeding, development, behaviour, or "is this normal?" — and get answers from other mothers who have **been through the same thing**.
+**Mummit** is a safe, judgement-free space where mothers can ask anything about their children — skin rashes, conditions, sleep, feeding, development, behaviour, or "is this normal?" — and get answers from other mothers who have **been through the same thing**.
 
 The product's core differentiator is **tone**. Facebook groups, Reddit and forums already have the information; what they lack is safety. Mothers get shamed, lectured, or piled on. This app is designed from the ground up so that hostility is hard to post, easy to remove, and never rewarded.
 
@@ -224,7 +224,7 @@ notifications    id, user_id, type, payload, read_at
 
 ## 12. Open questions for the team
 
-1. App name and brand feel?
+1. Brand feel, logo and domain/handle availability for "Mummit"?
 2. Membership: mothers only, or mothers and primary carers? (see §5 legal note)
 3. Launch niche: broad from day one, or start with a focused topic (e.g. skin & eczema)?
 4. Budget and target launch date?
